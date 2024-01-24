@@ -1,0 +1,21 @@
+<!-- List and describe the five primitive data types in JavaScript. -->
+
+String:
+
+The string data type represents sequences of characters and is used to store text or numbers. Strings are enclosed in single or double quotes.
+
+Number:
+
+The number data type represents numeric values, including integers and floating-point numbers.
+
+Boolean:
+
+The boolean data type has only two possible values: true or false. It is often used for conditional statements and logical operations.
+
+Undefined:
+
+The undefined data type is used for variables that have been declared but not yet assigned a value.
+
+Null:
+
+The null data type represents the intentional absence of any object value. It is often used to explicitly indicate that a variable has no value.
